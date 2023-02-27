@@ -1,10 +1,9 @@
 # Hojadevida
 Mi Hoja De Vida
 
- ![WhatsApp Image 2023-02-27 at 8 49 19 AM](https://user-images.githubusercontent.com/126481071/221581124-26d776d1-2588-418f-b457-454d6c5674a6.jpeg)
+<img src="https://user-images.githubusercontent.com/126481071/221581124-26d776d1-2588-418f-b457-454d6c5674a6.jpeg" width="200" height="250" />
 
-
-Luis Cortezano
+ **LUIS CORTEZANO**
 
 
 |cedula|nombre|celular|correo electronico|  
